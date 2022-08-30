@@ -5,6 +5,7 @@ It's currently in very early stages and having help from the community would be 
 
 Current things I need to add:
 ---
-- Api to detect and update PTB builds
-- Implement a basic UI
+- Api to detect and update CH PTB and Launcher
+- Implement a basic UI that just makes it useable
 - Colour profile creator
+- CH Settings Editor
