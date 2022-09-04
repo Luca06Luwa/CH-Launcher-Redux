@@ -4,7 +4,9 @@ This project has been archived as the upstream devs of clone hero have already c
 
 I have left the original description along with some of the early stage things that I needed to add.
 
-If the devs want me to, I could continue with this project, however it's been quite tricky when testing.
+If the devs want me to, I could continue with this project, however it's been quite tricky when testing and I'm just way to busy to deal with a project like this.
+
+See ya on the flip side. - Luca06Luwa
 
 # Original description
 
