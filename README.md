@@ -4,6 +4,8 @@ This project has been archived as the upstream devs of clone hero have already c
 
 I have left the original description along with some of the early stage things that I needed to add.
 
+If the devs want me to, I could continue with this project, however it's been quite tricky when testing.
+
 # Original description
 
 This is a complete open source version of a basic Clone Hero Control Panel.
